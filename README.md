@@ -1,4 +1,7 @@
 # bus-tracker-static
+> [!CAUTION]\
+> Not used anymore in any project
+
 Static data obtained from https://data-crtm.opendata.arcgis.com/ using [madrid-data-extractor](https://github.com/xBaank/madrid-data-extractor)
 
 - `stops.json` is extracted from gtfs data (stops.txt) of madrid and converted from `csv` to `json`
